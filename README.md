@@ -34,7 +34,7 @@ Welcome to the Nike Landing Page, where you can explore the world of Nike, its p
 
 ## Get Started
 
-Visit our Nike Landing Page [here](https://www.nike.com) to experience the world of Nike.
+Visit our Nike Landing Page [here](https://nike-in.netlify.app/) to experience the world of Nike.
 
 ---
 
